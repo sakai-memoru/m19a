@@ -16,8 +16,8 @@ gfm_quirks: paragraph_end
 
 author: Mitz
 
-lang: en
-timezone: Asia/Tokyo
+#lang: en
+#timezone: Asia/Tokyo
 
 exclude:
   - Gemfile
