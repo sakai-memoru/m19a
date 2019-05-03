@@ -26,5 +26,7 @@ exclude:
   - docker-compose.yml
   - vendor/
 
+url : "https://sakai-memoru.github.io"
+baseurl : "/m19a"
 github_username: sakai-memoru
 twitter_username: SakaiMemoru
