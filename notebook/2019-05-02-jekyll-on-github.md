@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 2019-05-02-jekyll-on-github
 
 # LT;DR

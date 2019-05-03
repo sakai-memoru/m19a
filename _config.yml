@@ -1,1 +1,14 @@
-theme: jekyll-theme-midnight
+title: Memoru's page
+description: This site is my jotting notebook.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
+
+github: [metadata]
+encoding: UTF-8
+kramdown:
+   input: GFM
+   hard_wrap: false
+future: true
+jailed: false
+gfm_quirks: paragraph_end
